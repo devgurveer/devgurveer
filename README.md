@@ -114,25 +114,13 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 <div align="center">
 
-<!--
-  Primary graph (github-readme-activity-graph). This service runs on a shared
-  free Vercel instance and can occasionally rate-limit or fail to load.
-  If it ever shows a broken image, the chart below is a guaranteed-stable
-  backup that will always render.
--->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
-<!-- Reliable backup contribution calendar (ghchart, no API/rate-limit issues) -->
 <img src="https://ghchart.rshah.org/7dd3fc/devgurveer" alt="devgurveer's GitHub contribution graph" width="100%"/>
 
 </div>
-
-> 💡 **Note on reliability:** `github-readme-stats` and `github-readme-activity-graph` run on a shared public Vercel instance that gets rate-limited when too many people use it at once — this is why cards sometimes fail to load or show "Error". It's not an issue with your account. The permanent fix is to **fork and self-host** these repos on your own free Vercel account:
-> - Fork [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) → deploy to Vercel → replace `github-readme-stats.vercel.app` with your own deployment URL throughout this file.
-> - Same process for [`github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph).
-> This removes the shared rate limit entirely so your cards load instantly and reliably every time.
 
 <br/>
 
@@ -144,13 +132,6 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 <img src="https://raw.githubusercontent.com/devgurveer/devgurveer/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation eating contribution graph" width="100%"/>
 
 </div>
-
-> ⚙️ **Setup required (one-time):** this snake image is generated automatically by a GitHub Action, not a static embed. To activate it:
-> 1. In your `devgurveer/devgurveer` repo, create the folder path `.github/workflows/`
-> 2. Add the `snake.yml` workflow file (provided separately) into that folder
-> 3. Push it to `main` — GitHub Actions will run it automatically, create an `output` branch, and generate the snake SVGs
-> 4. After the first run completes (check the **Actions** tab), the snake above will render and animate
-> 5. It auto-refreshes every 12 hours to stay in sync with your latest contributions
 
 <br/>
 
