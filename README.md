@@ -60,7 +60,7 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 | Logic      | JavaScript           |
 
 🔗 **Code:** [github.com/devgurveer/Amazon-UI_Clone](https://github.com/devgurveer/Amazon-UI_Clone)
-> ⚠️ Not currently deployed — no live demo available.
+🔗 **Live demo:** [http://127.0.0.1:5500/src/amazon.html]
 
 <br/>
 
