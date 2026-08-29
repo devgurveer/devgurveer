@@ -98,7 +98,7 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&custom_title=Gurveer's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true&grid_color=30363d&cache_seconds=86400" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&bg_color=0d1117&color=a855f7&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true&cache_seconds=86400" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
