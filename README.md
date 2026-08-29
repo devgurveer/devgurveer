@@ -61,8 +61,6 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 🔗 **Code:** [github.com/devgurveer/Amazon-UI_Clone](https://github.com/devgurveer/Amazon-UI_Clone)
 
-🔗 **Live demo:** [http://127.0.0.1:5500/src/amazon.html]
-
 <br/>
 
 ## 🛠️ Tech Stack
@@ -96,8 +94,8 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devgurveer&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgurveer&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devgurveer&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgurveer&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" height="165"/>
 
 <br/>
 
@@ -115,7 +113,7 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
