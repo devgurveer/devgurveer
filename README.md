@@ -88,16 +88,7 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devgurveer&show_icons=true&theme=radical&border_color=a855f7&title_color=a855f7&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgurveer&layout=compact&theme=radical&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top Languages" height="165"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=devgurveer&theme=radical&border=a855f7&stroke=a855f7&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=0d1117" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devgurveer&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies"/>
 
 </div>
 
@@ -106,10 +97,6 @@ A front-end clone of Amazon's UI, built to practice real-world layout, component
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devgurveer&custom_title=Gurveer's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true&grid_color=30363d&cache_seconds=86400" alt="Activity Graph" width="100%"/>
-
-<br/><br/>
 
 <img src="https://ghchart.rshah.org/22c55e/devgurveer" alt="devgurveer's GitHub contribution graph" width="100%"/>
 
