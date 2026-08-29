@@ -31,7 +31,7 @@ const gurveer = {
     database: ["MongoDB", "SQL"],
     aiTools: ["ChatGPT", "Claude AI", "GitHub Copilot", "Gemini"],
   },
-  launchedProjects: ["Amazon-UI_Clone"],
+  launchedProjects: ["Node-File-Manager", "Weather-Application", "Node-Notes-API"],
   currentlyLearning: ["Data Structures & Algorithms", "AI/ML Fundamentals"],
   certifications: [],
   status: "Open to Work",
@@ -43,17 +43,44 @@ const gurveer = {
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon-UI_Clone
+### 📁 Node File Manager
 
-A front-end clone of Amazon's UI, built to practice real-world layout, component structure, and responsive design.
+A command-line file manager built with Node.js using the File System and Readline modules — create, read, append, delete, list, and rename files, all from the terminal.
+
+| Layer      | Technology         |
+|------------|---------------------|
+| Runtime    | Node.js              |
+| Core APIs  | File System (`fs`), Readline |
+
+🔗 **Code:** [github.com/devgurveer/node-file-manager](https://github.com/devgurveer/node-file-manager)
+
+<br/>
+
+### 🌤️ Weather Application
+
+A weather app built with HTML, CSS, and JavaScript that pulls real-time weather data from a weather API — search by city, view temperature, humidity, and wind speed, on a responsive UI.
 
 | Layer      | Technology         |
 |------------|---------------------|
 | Frontend   | HTML5, CSS3         |
-| Styling    | Tailwind CSS (where applicable) |
 | Logic      | JavaScript           |
+| Data       | Weather API           |
 
-🔗 **Code:** [github.com/devgurveer/Amazon-UI_Clone](https://github.com/devgurveer/Amazon-UI_Clone)
+🔗 **Code:** [github.com/devgurveer/Weather-Application](https://github.com/devgurveer/Weather-Application)
+
+<br/>
+
+### 📝 Node Notes API
+
+A beginner-friendly REST API built with vanilla Node.js core modules — no Express. Practice project covering HTTP servers, routing, async file handling, and JSON-based storage: create and read notes, persisted to a JSON file with proper HTTP status codes and error handling.
+
+| Layer      | Technology         |
+|------------|---------------------|
+| Runtime    | Node.js              |
+| Core APIs  | HTTP Module, File System (`fs`) |
+| Storage    | JSON                 |
+
+🔗 **Code:** [github.com/devgurveer/node-notes-api](https://github.com/devgurveer/node-notes-api)
 
 <br/>
 
