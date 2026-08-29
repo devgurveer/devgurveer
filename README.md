@@ -47,12 +47,6 @@ const gurveer = {
 
 A front-end clone of Amazon's UI, built to practice real-world layout, component structure, and responsive design.
 
-<div align="center">
-<a href="https://github.com/devgurveer/Amazon-UI_Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devgurveer&repo=Amazon-UI_Clone&theme=radical&border_color=a855f7&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Amazon-UI_Clone Repo Card"/>
-</a>
-</div>
-
 | Layer      | Technology         |
 |------------|---------------------|
 | Frontend   | HTML5, CSS3         |
